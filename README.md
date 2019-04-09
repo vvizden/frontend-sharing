@@ -1,2 +1,2 @@
 # frontend-sharing
-my first sharing about frontend in honddian company
+my first sharing about frontend in hongdian company
