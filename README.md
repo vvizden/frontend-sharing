@@ -7,8 +7,14 @@ balabala...
 
 接下来的内容，我会按照css, es，vue和element-ui展开，其中主要包括开发中遇到的问题与相关处理办法，以及自己对相关技术的见解。
 ## CSS篇
-这部分主要提出两个实用技巧和一些实用的设计原则
-### 认识box-sizing
+这部分主要提出两个实用技巧和一些实用的设计原则。
+### 认识[box-sizing](http://www.w3school.com.cn/cssref/pr_box-sizing.asp)
+> `box-sizing` 属性允许您以特定的方式定义匹配某个区域的特定元素。
+> - 为元素设定的宽度和高度决定了元素的边框盒。
+> - 就是说，为元素指定的任何内边距和边框都将在已设定的宽度和高度内进行绘制。
+> - 通过从已设定的宽度和高度分别减去边框和内边距才能得到内容的宽度和高度。
+
+height = margin-top + border-top + padding-top + content + padding-bottom + border-bottom + 
 
 ### Flex布局搞定大部分布局场景
 > 网页布局是CSS的重点应用之一。
