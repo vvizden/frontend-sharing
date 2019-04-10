@@ -128,6 +128,28 @@ balabala...
 
 ## 其他
 
-### 相关工具（ESLint, Prettier, vue-devtools, WEBHelper）
+### 相关工具（Vetur, ESLint, Prettier, vue-devtools, WEBHelper）
+
+#### Vetur
+
+- 语法高亮
+- 标签补全、模板生成
+- Lint检查
+- 格式化
+
+#### ESLint
+
+- 代码规范
+- 错误检查
+
+#### Prettier
+
+- 格式化
+
+#### vue-devtools
+
+- 集成Vuex
+- 可远程调试
+- 性能分析（新版本）
 
 以上就是我此次分享的全部内容，不足之处，还望指正。
