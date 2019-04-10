@@ -47,9 +47,21 @@ balabala...
 
 该部分主要分享`ECMAScript5`和`ECMAScript6`一些实用的特性。
 
-### 拥抱ES5
+### [ES5数组相关API](https://www.cnblogs.com/mingbo-zhang/p/10190812.html)
+- `forEach()`
+- `map()`
+- `filter()`
+- `some()`
+- `every()`
+- `reduce()`
 
-### 拥抱ES6
+### [ES6实用特性](https://www.jianshu.com/p/287e0bb867ae)
+- 箭头函数
+- 字符串模板
+- 函数默认值
+- Object.assign()
+- 解构
+- 展开运算符
 
 ## Vue篇
 
