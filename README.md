@@ -14,6 +14,11 @@ balabala...
 > - 就是说，为元素指定的任何内边距和边框都将在已设定的宽度和高度内进行绘制。
 > - 通过从已设定的宽度和高度分别减去边框和内边距才能得到内容的宽度和高度。
 
+```css
+div {
+  box-sizing: border-box;
+}
+```
 `height` = `border-top` + `padding-top` + `content` + `padding-bottom` + `border-bottom`;
 
 宽度同理。
