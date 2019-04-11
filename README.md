@@ -126,8 +126,6 @@ div {
 
 ### [表格组件表头错位问题](https://blog.csdn.net/jackie_bobo/article/details/86064112/)
 
-### 分页组件在宽度有限情况下的处理
-
 ### 弹出框组件的应用场景
 
 ## 其他
