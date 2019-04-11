@@ -150,7 +150,7 @@ balabala...
 
 - 格式化
 
-#### vue-devtools
+#### [vue-devtools](https://github.com/vuejs/vue-devtools)
 
 - 集成Vuex
 - 可远程调试
