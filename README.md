@@ -38,11 +38,11 @@ div {
 ### 大家都应该懂一点的设计原则
 了解以下几点实用设计原则，你就可以设计出简单，大方，得体，灵活的UI界面。
 
-- 亲密性
-- 对齐
-- 对比
-- 足不出户
-- 即时反应
+- [亲密性](https://ant.design/docs/spec/proximity-cn#%E7%BA%B5%E5%90%91%E9%97%B4%E8%B7%9D%E5%85%B3%E7%B3%BB)
+- [对齐](https://ant.design/docs/spec/alignment-cn#%E8%A1%A8%E5%8D%95%E7%B1%BB%E5%AF%B9%E9%BD%90)
+- [对比](https://ant.design/docs/spec/contrast-cn#%E4%B8%BB%E6%AC%A1%E5%85%B3%E7%B3%BB%E5%AF%B9%E6%AF%94)
+- [足不出户](https://ant.design/docs/spec/stay-cn#%E8%A6%86%E7%9B%96%E5%B1%82)
+- [即时反应](https://ant.design/docs/spec/reaction-cn#%E5%8F%8D%E9%A6%88%E6%A8%A1%E5%BC%8F)
 - 单一职责
 - 一致性与单一数据源
 
