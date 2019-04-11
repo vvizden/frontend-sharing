@@ -132,7 +132,7 @@ div {
 
 ## 其他
 
-### 相关工具（Vetur, ESLint, Prettier, vue-devtools, WEBHelper）
+### 相关工具（Vetur, ESLint, Prettier, vue-devtools, FeHelper）
 
 #### Vetur
 
@@ -155,5 +155,9 @@ div {
 - 集成Vuex
 - 可远程调试
 - 性能分析（新版本）
+
+#### [FeHelper](https://www.baidufe.com/fehelper)
+
+- 前端实用工具插件
 
 以上就是我此次分享的全部内容，不足之处，还望指正。
