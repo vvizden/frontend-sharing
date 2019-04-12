@@ -1,0 +1,16 @@
+.el-row-height {
+  height: 782px;
+
+  > * {
+    height: inherit;
+  }
+}
+
+.flex-box-row {
+    display: flex;
+}
+
+.flex-box-col {
+    display: flex;
+    flex-direction: column;
+}
