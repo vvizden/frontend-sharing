@@ -18,6 +18,8 @@
     <HrLine/>
     <VueBindingDemo/>
     <HrLine/>
+    <KeyBindingDemo/>
+    <HrLine/>
   </div>
 </template>
 
@@ -28,6 +30,7 @@ import BoxSizingDemo from "./views/BoxSizingDemo.vue";
 import FlexDemo from "./views/FlexDemo.vue";
 import ESDemo from "./views/ESDemo.vue";
 import VueBindingDemo from "./views/VueBindingDemo.vue";
+import KeyBindingDemo from "./views/KeyBindingDemo.vue";
 
 export default {
   name: "app",
@@ -37,7 +40,8 @@ export default {
     HrLine,
     FlexDemo,
     ESDemo,
-    VueBindingDemo
+    VueBindingDemo,
+    KeyBindingDemo
   }
 };
 </script>
