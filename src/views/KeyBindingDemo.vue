@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: "EventDemo",
+  name: "KeyBindingDemo",
   data() {
     return {
       list: [1,2,3]

@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  name: "ES5Demo",
+  name: "ESDemo",
   data() {
     return {
       hello: "hello",

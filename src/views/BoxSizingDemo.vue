@@ -21,6 +21,7 @@ import ModuleContainer from "../components/hd/ModuleContainer.vue";
 import DefaultTip from "../components/hd/DefaultTip.vue";
 
 export default {
+  name: "BoxSizingDemo",
   components: {
     ModuleContainer,
     DefaultTip

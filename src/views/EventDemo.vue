@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Vue-Core-Concept-Demo</h2>
+    <h2>Vue-Core-Concepts-Demo</h2>
     <el-row class="el-row-height">
       <el-col :span="24">
         <BlogPost
